@@ -1,0 +1,33 @@
+.mainContainer h2{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensure the height takes up the full container */
+  color: rgb(95, 41, 5);
+  font-style: inherit;
+  font-size: 80px;
+}
+.mainContainer p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensure the height takes up the full container */
+  color: rgb(95, 41, 5);
+  font-weight: 900;
+  font-style: bold;
+  font-size: 60px;
+  margin-top: 20px;
+}
+.mainContainer span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Ensure the height takes up the full container */
+    color: red;
+    font-size: 80px;
+    /* margin-top: 20px; */
+  }
+.backgroundImage{
+    width: 50%;
+    height: 50%;
+}
